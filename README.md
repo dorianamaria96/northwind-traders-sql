@@ -3,4 +3,4 @@ Northwind Traders is a huge trading company which imports and exports specialty 
 
 The Entity-Relationship Diagram for the database is the following:
 
-![northwind-traders](/northwin-ER.png)
+![northwind-traders](/images/northwind-ER.png)
